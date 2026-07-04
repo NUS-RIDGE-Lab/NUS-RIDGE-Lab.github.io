@@ -3,6 +3,10 @@
 
 # Local tooling / editor config
 .claude/
+.codex/
+.agents/
+AGENTS.md
+CLAUDE.md
 
 # Scratch files
 *.log
